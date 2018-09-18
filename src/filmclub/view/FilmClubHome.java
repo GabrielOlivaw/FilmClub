@@ -11,7 +11,6 @@ import filmclub.dao.ActorDAOHibernate;
 import filmclub.dao.FilmDAOHibernate;
 import filmclub.dao.LanguageDAOHibernate;
 import hibernate.HibernateUtil;
-import java.awt.TrayIcon;
 import javax.swing.JOptionPane;
 import javax.swing.UIManager;
 import org.hibernate.HibernateException;
